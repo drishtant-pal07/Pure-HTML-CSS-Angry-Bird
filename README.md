@@ -1,8 +1,3 @@
-Gemini said
-Bhai, Pure-CSS-Angry-Bird ke liye aisa README likh jo padhne wale ko majboor kar de tera code check karne ke liye. Recruiter ko ye dikhna chahiye ki tune shapes aur positioning ke saath kitni mehnat ki hai.
-
-Apne GitHub repo ki README.md file mein ye exact content copy-paste kar de:
-
 🔴 Pure CSS Angry Bird Art
 A creative frontend challenge to build the iconic Angry Bird character using Zero Images. This project is crafted entirely with HTML5 and CSS3, focusing on advanced styling techniques and pixel-perfect positioning.
 
